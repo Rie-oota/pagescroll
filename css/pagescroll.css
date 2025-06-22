@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+header {
+  margin: 0 50px;
+  position: fixed;
+  top: 50px;
+}
+
+header ul li {
+  list-style: none;
+  float: right;
+  writing-mode: vertical-rl;
+}
+
+#top {
+  height: 1000px;
+  background-color: blue;
+}
+
+#words {
+  height: 1000px;
+  background-color: aqua;
+}
+
+#movie {
+  height: 1000px;
+  background-color: pink;
+}
+
+#pictures {
+  height: 1000px;
+  background-color: bisque;
+}
